@@ -1,0 +1,35 @@
+ERROR:root:invalid literal for int() with base 10: 'gh'
+Traceback (most recent call last):
+  File "C:\Users\KrishnaAleti\AppData\Local\Temp\ipykernel_13436\2921396026.py", line 6, in <module>
+    ip=int(input("Enter a number: "))
+ValueError: invalid literal for int() with base 10: 'gh'
+ERROR:root:invalid literal for int() with base 10: 'jklk'
+Traceback (most recent call last):
+  File "C:\Users\KrishnaAleti\AppData\Local\Temp\ipykernel_13436\2921396026.py", line 6, in <module>
+    ip=int(input("Enter a number: "))
+ValueError: invalid literal for int() with base 10: 'jklk'
+ERROR:root:invalid literal for int() with base 10: 'dfwse'
+Traceback (most recent call last):
+  File "C:\Users\KrishnaAleti\AppData\Local\Temp\ipykernel_13436\2739126135.py", line 6, in <module>
+    ip=int(input("Enter a number: "))
+ValueError: invalid literal for int() with base 10: 'dfwse'
+ERROR:root:invalid literal for int() with base 10: 'kjh'
+Traceback (most recent call last):
+  File "C:\Users\KrishnaAleti\AppData\Local\Temp\ipykernel_13436\2739126135.py", line 6, in <module>
+    ip=int(input("Enter a number: "))
+ValueError: invalid literal for int() with base 10: 'kjh'
+ERROR:root:invalid literal for int() with base 10: 'krish'
+Traceback (most recent call last):
+  File "C:\Users\KrishnaAleti\AppData\Local\Temp\ipykernel_13592\2921396026.py", line 6, in <module>
+    ip=int(input("Enter a number: "))
+ValueError: invalid literal for int() with base 10: 'krish'
+ERROR:root:invalid literal for int() with base 10: 'ok'
+Traceback (most recent call last):
+  File "C:\Users\KrishnaAleti\AppData\Local\Temp\ipykernel_13592\2921396026.py", line 6, in <module>
+    ip=int(input("Enter a number: "))
+ValueError: invalid literal for int() with base 10: 'ok'
+ERROR:root:invalid literal for int() with base 10: 'test'
+Traceback (most recent call last):
+  File "C:\Users\KrishnaAleti\AppData\Local\Temp\ipykernel_13592\2921396026.py", line 6, in <module>
+    ip=int(input("Enter a number: "))
+ValueError: invalid literal for int() with base 10: 'test'
