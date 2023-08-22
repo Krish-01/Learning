@@ -1,0 +1,10 @@
+Telsuko: Django Tutorial for Beginners | Full Course: https://www.youtube.com/watch?v=OTmQOjsl0eg&t=14s
+---> Django superuser creds:- username:  krish, password: test
+
+PostgreSQL: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+--->Postgres  superuser creds:- superuser: postgres, password: test, port: 5432
+Postgres docs: http://127.0.0.1:60168/help/help/getting_started.html
+
+Django - PostgreSQL connector: https://pypi.org/project/psycopg2/ 
+
+pgAdmin - Provides UI - its PostgreSQL tool: https://www.postgresql.org/ftp/pgadmin/pgadmin4/v6.7/windows/
