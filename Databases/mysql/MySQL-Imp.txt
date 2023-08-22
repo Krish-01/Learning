@@ -1,0 +1,6 @@
+To Download: https://dev.mysql.com/downloads/installer/
+
+MySQL  creds:
+user:- root
+pwd:- MySQL123
+host:- 127.0.0.1:3306
